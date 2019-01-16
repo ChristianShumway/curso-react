@@ -1,0 +1,19 @@
+body{
+}
+.Regular-Error{
+  background: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+.Regular-Error img{
+  width: 100%;
+}
+
+.Regular-Error-msj{
+  color:#4c3e8d;
+}

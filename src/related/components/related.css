@@ -1,0 +1,13 @@
+.Related{
+  width: 300px;
+}
+
+.Related-logo{
+  width:100%;
+}
+
+.Related-logo img{
+  width: 250px;
+  display: inherit;
+  margin: 0 auto;
+}
